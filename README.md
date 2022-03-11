@@ -1,2 +1,2 @@
 # First-Green-Build-CircleCI
-For practicing CI
+For practicing How to use circleCI.
